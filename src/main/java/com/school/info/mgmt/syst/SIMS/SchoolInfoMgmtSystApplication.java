@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SchoolInfoMgmtSystApplication {
 
 	public static void main(String[] args) {
+		System.out.println("SchoolInfoMgmtSystApplication Running...");
 		SpringApplication.run(SchoolInfoMgmtSystApplication.class, args);
 	}
 
